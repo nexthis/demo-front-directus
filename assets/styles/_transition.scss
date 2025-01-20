@@ -1,0 +1,10 @@
+.default-enter-active,
+.default-leave-active {
+    transition: all 0.2s;
+}
+
+.default-enter-from,
+.default-leave-to {
+    opacity: 0;
+    filter: blur(1rem);
+}
