@@ -78,7 +78,6 @@ export default defineNuxtConfig({
 //       retries: 10
 
 
-
 // SERVICE_FQDN_DIRECTUS=https://directus.pawel-romanowski.pl
 // SERVICE_ADMIN_EMAIL=admin@example.com
 // SERVICE_ADMIN_PASSWORD=password
